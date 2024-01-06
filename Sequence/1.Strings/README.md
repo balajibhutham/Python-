@@ -1,8 +1,4 @@
 
-# Project Title
-
-A brief description of what this project does and who it's for
-
 
 ## Strings
        1. Any sequence of characters within either single quotes or double quotes is considered as a String
