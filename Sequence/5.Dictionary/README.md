@@ -11,8 +11,7 @@
 
 
 
-## Indexing and Slicing 
-## Built in functions.
+## Built-in functions.
 
      - keys
      - values
