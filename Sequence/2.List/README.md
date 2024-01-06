@@ -29,3 +29,4 @@ List
                      14. empty 
                      15. min
                      16. max 
+                     17.sum
