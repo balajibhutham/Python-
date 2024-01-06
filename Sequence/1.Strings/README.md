@@ -30,3 +30,5 @@ Slicing: slicing is used for the selection of multiple elements
                          12. remove
                          13. del
                          14. empty 
+                         15. min
+                         16. max 
