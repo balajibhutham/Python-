@@ -7,7 +7,10 @@ List
       3.	The lists are the mutable type.
       4.	A list can store the number of various elements.
 
-## Indexing and Slicing
+## Indexing and Slicing:
+      Indexing: indexing is used for the selection of a single element
+
+      Slicing: slicing is used for the selection of multiple elements
 ## List Built-in Functions:
        some of the built-in functions are :
                      1. index
