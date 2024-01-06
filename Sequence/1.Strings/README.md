@@ -20,15 +20,18 @@ Slicing: slicing is used for the selection of multiple elements
                          2. copy
                          3. len
                          4. count
-                         5. extend
-                         6. append
-                         7. insert
-                         8. sort
-                         9. reverse
-                         10. pop
-                         11. clear
+                         5. split
+                         6. strip
+                         7. join
+                         8. find
+                         9. replace
+                         10. starts with
+                         11. ends with 
                          12. remove
                          13. del
-                         14. empty 
-                         15. min
-                         16. max 
+                         14. lower
+                         15. upper
+                         16. is lower
+                         17. is upper
+                         18. is digit
+                         19.is numeric
