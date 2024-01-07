@@ -1,10 +1,5 @@
 
 
-
-# Project Title
-
-A brief description of what this project does and who it's for
-
 ## Strings
        1. Any sequence of characters within either single quotes or double quotes is considered as a String
        2. Python strings are "immutable" which means they cannot be changed after they are created.
