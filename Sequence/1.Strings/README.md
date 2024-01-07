@@ -8,11 +8,12 @@
 
 Indexing:
           Indexing is used for the selection of a single element.
+          
           Positive indexing starts from 0.
            
            Negative Indexing starts from -1.
            
-           index returns one item
+           Index returns one item
            
            To retrieve an element of the sequence(list,tuple etc, we use the index operator ([]):
            
