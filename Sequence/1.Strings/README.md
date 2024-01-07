@@ -1,5 +1,10 @@
 
 
+
+# Project Title
+
+A brief description of what this project does and who it's for
+
 ## Strings
        1. Any sequence of characters within either single quotes or double quotes is considered as a String
        2. Python strings are "immutable" which means they cannot be changed after they are created.
@@ -7,15 +12,16 @@
 ## Indexing and slicing
 
 Indexing:
-          Indexing is used for the selection of a single element.
-          
-          Positive indexing starts from 0.
-           
-           Negative Indexing starts from -1.
-           
-           Index returns one item
-           
-           To retrieve an element of the sequence(list,tuple etc, we use the index operator ([]):
+
+       Indexing is used for the selection of a  single element.
+
+       Positive indexing starts from 0.
+
+       Negative Indexing starts from -1.
+
+       Index returns one item
+
+       To retrieve an element of the sequence(list,tuple etc, we use the index operator ([]):
            
        
 Slicing: slicing is used for the selection of multiple elements
