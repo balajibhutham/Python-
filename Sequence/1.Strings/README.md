@@ -24,8 +24,11 @@ Indexing:
        To retrieve an element of the sequence(list,tuple etc, we use the index operator ([]):
            
        
-Slicing: slicing is used for the selection of multiple elements
+Slicing: 
+           slicing is used for the selection of multiple elements.
+
           In Python, you perform slicing using the colon: operator.
+          
           When we assign a single element to slicing, we get a TypeError. It will only accept iterables.
 
 
