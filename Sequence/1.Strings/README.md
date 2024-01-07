@@ -6,9 +6,9 @@
        3. A string in Python is an object of the str class. 
 ## Indexing and slicing
 
-Indexing: Indexing is used for the selection of a single element.
-
-           Positive indexing starts from 0.
+Indexing:
+          Indexing is used for the selection of a single element.
+          Positive indexing starts from 0.
            
            Negative Indexing starts from -1.
            
