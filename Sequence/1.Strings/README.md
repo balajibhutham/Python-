@@ -25,7 +25,7 @@ Indexing:
            
        
 Slicing: 
-           slicing is used for the selection of multiple elements.
+          Slicing is used for the selection of multiple elements.
 
           In Python, you perform slicing using the colon: operator.
           
